@@ -1,6 +1,6 @@
 module.exports = { 
-    username: 'bmasamartinho', 
-    password: 'P54XhkwdbgNVi5V',
-    accounts : ['fppadel', 'ptpadelportugal', 'padelfip'],
+    username: '<USERNAME>', 
+    password: '<PASSWORD>',
+    accounts : ['google'],
     timeout: 120000
 } 
