@@ -1,3 +1,2 @@
 node_modules/*
-# Ignore settings.js file
-settings.js
+/settings.js
